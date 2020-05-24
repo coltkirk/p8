@@ -2,6 +2,7 @@ pico-8 cartridge // http://www.pico-8.com
 version 27
 __lua__
 --tab0
+--version 0.1
 function _init()
    t=0
    p_ani={236,238}
